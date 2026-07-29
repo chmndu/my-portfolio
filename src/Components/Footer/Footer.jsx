@@ -17,7 +17,7 @@ function Footer(){
                 <a href="https://www.linkedin.com/in/chamindudahanayaka/" target="_blank" rel="noopener noreferrer">
                     <Icon svgCode={linkedInIcon} width={48} height={48}/>
                 </a>
-                <a href="https://github.com/ChaminduD" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/chmndu" target="_blank" rel="noopener noreferrer">
                     <Icon svgCode={gitHubIcon} width={48} height={48}/>
                 </a>
             </div>
